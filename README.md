@@ -9,3 +9,4 @@ Row-by-Row Iteration (SUMX): Evaluated transactional item variables dynamically 
 Filter Suppression (ALL): Bypassed report visual coordinates to construct an unalterable global baseline denominator for relative share comparisons.
 Safe Mathematical Execution (DIVIDE): Standardized calculation ratios to protect end-user graphics from unexpected data errors or null inputs.
 Time Intelligence (TOTALYTD): Established sequential cumulative sales metrics to evaluate organizational growth velocity.
+![financial Dashboard Screenshot](Dashboard_Evidence.png)
